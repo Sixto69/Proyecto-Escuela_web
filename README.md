@@ -1,2 +1,2 @@
-# Proyecto-Escuela_web
+# Proyecto_Escuela_web
 Crear un software Pagina Web
